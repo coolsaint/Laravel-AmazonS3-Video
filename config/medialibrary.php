@@ -48,7 +48,7 @@ return [
         /*
          * The domain that should be prepended when generating urls.
          */
-        'domain' => 'https://'.env('AWS_BUCKET').'sgp1.digitaloceanspaces.com',
+        'domain' => 'https://vod-demo.sgp1.digitaloceanspaces.com',
     ],
 
     'remote' => [
